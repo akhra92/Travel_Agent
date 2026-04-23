@@ -2,6 +2,8 @@
 
 A Streamlit app that combines machine learning and LLMs to recommend the best travel times, hotels, and generate personalized itineraries.
 
+[Live Demo](https://your-app-name.streamlit.app)
+
 ## Features
 
 - **Weather Analysis** — predicts the best months to visit a destination using a Random Forest model trained on historical weather scores
