@@ -1,4 +1,4 @@
-# AI Travel Planner
+# Travel Planner AI Agents
 
 A Streamlit app that combines machine learning and LLMs to recommend the best travel times, hotels, and generate personalized itineraries.
 
