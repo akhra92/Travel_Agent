@@ -18,6 +18,6 @@ class ItineraryPlannerAgent:
                 {"role": "system", "content": "You are an expert travel planner."},
                 {"role": "user", "content": prompt},
             ],
-            max_tokens=300,
+            max_tokens=1500,
         )
         return response.choices[0].message.content
