@@ -4,8 +4,9 @@ import numpy as np
 ROME_LAT = 41.9028
 ROME_LON = 12.4964
 
+rng = np.random.default_rng(seed=42)
 historical_weather_data = [
-    {"month": i, "latitude": ROME_LAT, "longitude": ROME_LON, "weather_score": np.random.rand()}
+    {"month": i, "latitude": ROME_LAT, "longitude": ROME_LON, "weather_score": rng.random()}
     for i in range(1, 13)
 ]
 
