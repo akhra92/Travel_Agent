@@ -2,7 +2,7 @@
 
 A Streamlit app that combines machine learning and LLMs to recommend the best travel times, hotels, and generate personalized itineraries.
 
-[Live Demo](https://travel-agent-demonstration.streamlit.app/)
+**You can experience demo here ->** [Live Demo](https://travel-agent-demonstration.streamlit.app/)
 
 ## Features
 
